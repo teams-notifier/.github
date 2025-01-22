@@ -4,4 +4,6 @@ Welcome to the Teams Notifier project, a set of services and API to interact wit
 
 Take a look at the project's site [https://teams-notifier.github.io/](https://teams-notifier.github.io/) and to the [doc](https://teams-notifier.github.io/docs/)
 
-This is a weekend/pet project but in perfectly working condition :)
+Usable directly through the [`activity-api`](https://github.com/teams-notifier/activity-api) or with dedicated integrations like:
+- GitLab with [gitlab-mr-api](https://github.com/teams-notifier/gitlab-mr-api)
+- Jira with [jira-api](https://github.com/teams-notifier/jira-api) (comming soon)

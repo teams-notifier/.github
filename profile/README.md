@@ -6,4 +6,4 @@ Take a look at the project's site [https://teams-notifier.github.io/](https://te
 
 Usable directly through the [`activity-api`](https://github.com/teams-notifier/activity-api) or with dedicated integrations like:
 - GitLab with [gitlab-mr-api](https://github.com/teams-notifier/gitlab-mr-api)
-- Jira with [jira-api](https://github.com/teams-notifier/jira-api) (comming soon)
+- Jira with [jira-api](https://github.com/teams-notifier/jira-api)
